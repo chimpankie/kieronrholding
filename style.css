@@ -25,3 +25,11 @@ a {
 a:hover {
     color: black;
 }
+
+h2 {
+    opacity: 30%;
+    text-align: center;
+    padding: 50px;
+    letter-spacing: 1em;
+    font-size: xx-large;
+}
