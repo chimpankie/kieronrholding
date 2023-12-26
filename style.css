@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40vh;
+    letter-spacing: 0.4em;
+
+}
+
+p {
+    text-align: center;
+    color: darkgray; 
+    font-size: larger;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(124, 124, 124);
+}
+
+a:hover {
+    color: black;
+}
